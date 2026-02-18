@@ -1,0 +1,41 @@
+What is the difference between a spreadsheet and a database?
+
+Spreadsheets offer more user-friendly interfaces of data management, whereas datasets offer formats that allow for management of relatively large and complex data.
+
+What are the advantages and disadvantages of using a spreadsheet for health data management?
+
+Advantages: A spreadsheet is good for small volumes of data and is easy to learn and use.
+Disadvantages: Limited in scalability, security, data relations, and data integrity.
+
+What are the advantages and disadvantages of using a database for health data management?
+
+Advantages: High stability, easy multi-user accessibility, advanced security measures, etc.
+Disadvantages: Requires relatively high planning and effort, requires knowledge of database design and SQL.
+
+What are some examples of tasks that can be performed using a spreadsheet?
+
+Data entry, visualization
+
+What are some examples of tasks that can be performed using a database?
+
+Advanced data analysis, public health reporting
+
+What are some examples of tasks that can be performed using both a spreadsheet and a database?
+
+Data analysis, data entry
+
+What are some examples of tasks that can be performed using neither a spreadsheet nor a database?
+
+Conducting a patient interview without recording structured data, Conducting a physical medical examination.
+
+What are some examples of tasks that can be performed using a spreadsheet but not a database?
+
+One-time statistical summaries, quick data visualizations.
+
+What are some examples of tasks that can be performed using a database but not a spreadsheet?
+
+Linking numerous variables to perform data analysis through analyzing relationships, managing data of thousands of patients.
+
+What are some examples of tasks that can be performed using both a spreadsheet and a database?
+
+Storing patient demographic data; calculating averages, counts, or totals.
